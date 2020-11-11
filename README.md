@@ -6,4 +6,4 @@ Paneer butter masala or paneer makhni is also a staple dish in any wedding recep
 
 [Recipe](Recipe.md)
 
-[include](File:Recipe.md)
+(File:Recipe.md)
